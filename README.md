@@ -182,7 +182,9 @@ The retriever uses **Dense Passage Retrieval (DPR)** to fetch relevant informati
 - **Scraped Data**: Structured restaurant data collected from multiple sources.
 - **Documentation**: Detailed explanation of the system architecture, implementation, and challenges faced.
 - **Demo Video**: A short video showcasing how the chatbot works with sample interactions.
+## Demo Video
 
+Watch the demo here: [Demo Video](https://youtube.com/shorts/tdckd8bvvGk?si=SSOnSRk-taI8p6uW)
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
